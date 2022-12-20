@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Computer Science",
+        "image1":"https://i.ibb.co/7gR4F74/Computer-Science1.png",
+        "image2":"https://i.ibb.co/K5dL76n/Computer-Science2.png",
+        "image3":"https://i.ibb.co/sHWc28H/Computer-Science3.png",
+        "image4":"https://i.ibb.co/L8Yb9Z4/Computer-Science4.png"
+    },
+    {
+        "id":2,
+        "name":"Shop BD",
+        "image1":"https://i.ibb.co/sgNvvjQ/ShopBD1.png",
+        "image2":"https://i.ibb.co/jrtmnTc/ShopBD2.png",
+        "image3":"https://i.ibb.co/Fhfwxxh/ShopBD3.png",
+        "image4":"https://i.ibb.co/KX5qmBj/ShopBD4.png"
+    },
+    {
+        "id":3,
+        "name":"Travigo",
+        "image1":"https://i.ibb.co/tYz4P5v/Travigo1.png",
+        "image2":"https://i.ibb.co/F0pMnM9/Travigo2.png",
+        "image3":"https://i.ibb.co/WBhhY7c/Travigo3.png",
+        "image4":"https://i.ibb.co/V3MtzbJ/Travigo4.png"
+    }
+]
