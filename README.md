@@ -11,7 +11,7 @@ Front End Developer, with extensive knowledge and months of experience, working 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://istiak-ahmed-portfolio.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/istiak-ahmed180)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiak-ahmed180/)
 [![server](https://img.shields.io/badge/my_server-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-personal-portfolio-server.vercel.app/projects)
 
 
